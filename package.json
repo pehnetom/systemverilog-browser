@@ -1,0 +1,21 @@
+{
+  "name": "systemverilog-browser",
+  "main": "./lib/systemverilog-browser",
+  "version": "0.0.0",
+  "description": "A short description of your package",
+  "keywords": [
+  ],
+  "activationCommands": {
+    "atom-workspace": "systemverilog-browser:toggle"
+  },
+  "repository": "https://github.com/atom/systemverilog-browser",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  },
+  "deserializers": {
+    "systemverilog-browser/SystemverilogBrowserView": "deserializeSystemverilogBrowserView"
+  }
+}

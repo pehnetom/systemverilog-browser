@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle systemverilog-browser",
+        "command": "systemverilog-browser:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "systemverilog-browser",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "systemverilog-browser:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -4,5 +4,17 @@
 // for a full listing of what's available.
 @import "ui-variables";
 
-.systemverilog-browser {
+atom-text-editor{
+  .highlighStyle2 .region {
+    background-color: transparent;
+    border-radius: @component-border-radius;
+    border: 1px solid @syntax-result-marker-color;
+    box-sizing: border-box;
+    z-index: 0;
+  }
+
+  .highlighStyle2,
+  .current-result {
+    display: none;
+  }
 }

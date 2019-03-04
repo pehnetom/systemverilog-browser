@@ -2,7 +2,7 @@
   "name": "systemverilog-browser",
   "main": "./lib/systemverilog-browser",
   "styles": "./styles/systemverilog-browser.less",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Displays the elements of the SystemVerilog file in side-panel. Highlights and jumps to declarations.",
   "keywords": [
   ],

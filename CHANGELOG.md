@@ -1,3 +1,6 @@
+## 1.0.1 - First fix of the First Release
+* Fixed include"somefile.sv", that wasn't added to the browser.
+
 ## 1.0.0 - First Release
 * Publishing on Atom repository, no changes made from the last release.
 

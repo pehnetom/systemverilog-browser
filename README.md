@@ -24,3 +24,4 @@ TO-DO:
 * Search for occurences in SV code
 * Save the state of the Panel, on save it is created again thus opening or collapsed elements
 * Search for SV code in project directories, now just in root directory
+* Implement object SystemVerilogTree for searching in SystemVerilog project

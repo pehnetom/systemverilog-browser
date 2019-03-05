@@ -14,6 +14,11 @@ This package, helps to track long systemverilog files. Current Features:
 
 There is a lot of bugs, no test implemented yet.
 
+## For Project browsing
+* You need to have all the files in one root folder, the directory search is not yet implemented
+* The search firstly finds *modules* then imported *packages* and then *included* files in the *packages*
+* The current file browsing doesn't link other files.
+
 TO-DO:
 * Search for non wrapping SV elements (logic,bit,mailbox etc.)
 * Search for occurences in SV code

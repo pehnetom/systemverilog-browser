@@ -1,3 +1,6 @@
+## 1.0.0 - First Release
+* Publishing on Atom repository, no changes made from the last release.
+
 ## 0.2.0 - Third Alpha Release
 * Added module oriented hierarchy of project folder modules -> import statements -> package -> classes and other contents
 * Added buttons to switch between curent file browsing(default) and project browsing

@@ -9,7 +9,7 @@
   "activationCommands": {
     "atom-workspace": "systemverilog-browser:toggle"
   },
-  "repository": "https://github.com/atom/systemverilog-browser",
+  "repository": "https://github.com/pehnetom/systemverilog-browser",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"

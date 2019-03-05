@@ -2,10 +2,9 @@
   "name": "systemverilog-browser",
   "main": "./lib/systemverilog-browser",
   "styles": "./styles/systemverilog-browser.less",
-  "version": "0.3.0",
+  "version": "1.0.0",
   "description": "Displays the elements of the SystemVerilog file in side-panel. Highlights and jumps to declarations.",
-  "keywords": [
-  ],
+  "keywords": [],
   "activationCommands": {
     "atom-workspace": "systemverilog-browser:toggle"
   },
@@ -14,8 +13,7 @@
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
-  },
+  "dependencies": {},
   "deserializers": {
     "systemverilog-browser/SystemverilogBrowserView": "deserializeSystemverilogBrowserView"
   }

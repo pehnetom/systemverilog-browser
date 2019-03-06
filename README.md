@@ -30,3 +30,4 @@ TO-DO:
 * Implement object SystemVerilogTree for searching in SystemVerilog project
 * More effective searching through folders
 * Add packages element to the end of modules
+* Adds support for extern functions/tasks

@@ -29,3 +29,4 @@ TO-DO:
 * Search for SV code in project directories, now just in root directory
 * Implement object SystemVerilogTree for searching in SystemVerilog project
 * More effective searching through folders
+* Add packages element to the end of modules

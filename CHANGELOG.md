@@ -1,5 +1,6 @@
 ## 1.0.1 - First fix of the First Release
 * Fixed include"somefile.sv", that wasn't added to the browser.
+* Added project search for subfolders of the project.
 
 ## 1.0.0 - First Release
 * Publishing on Atom repository, no changes made from the last release.

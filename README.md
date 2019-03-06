@@ -14,6 +14,9 @@ This package, helps to track long systemverilog files. Current Features:
 
 There is a lot of bugs, no test implemented yet.
 
+## Current File Browsing(Default)
+
+
 ## For Project browsing
 * You need to have all the files in one root folder, the directory search is not yet implemented
 * The search firstly finds *modules* then imported *packages* and then *included* files in the *packages*
@@ -25,3 +28,4 @@ TO-DO:
 * Save the state of the Panel, on save it is created again thus opening or collapsed elements
 * Search for SV code in project directories, now just in root directory
 * Implement object SystemVerilogTree for searching in SystemVerilog project
+* More effective searching through folders
